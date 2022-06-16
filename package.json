@@ -1,0 +1,26 @@
+
+{
+  "name": "arena-sound",
+  "version": "0.0.1",
+  "description": "Arena Development - Müzik Botu",
+  "main": "bot.js",
+  
+  "scripts": {
+    "start": "node bot.js"},
+  
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "discord.js": "12.5.1",
+    "genius-lyrics": "^4.2.0",
+    "opusscript": "0.0.8",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"},
+  
+  "engines": {
+    "node": "^16.x"
+  }
+}
